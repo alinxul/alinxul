@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinxul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Javascript
 
 <!---
 alinxul/alinxul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
